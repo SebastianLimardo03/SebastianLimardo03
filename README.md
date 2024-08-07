@@ -1,7 +1,7 @@
 <h1 align="center">Hello, My name is Sebastian Limardo</h1>
-<h3 align="center">A passionate Junior Full-Stack Web developer</h3>
+<h3 align="center">A passionate Full-Stack Web developer</h3>
 
-- 🌱 I’m currently learning **React and Node.js**
+- 🌱 I’m currently learning ****
 
 - 📫 How to reach me: **sebaslimutn@gmail.com**
 
