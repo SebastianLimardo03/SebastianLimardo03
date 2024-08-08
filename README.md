@@ -3,23 +3,6 @@
 
 ---
 
-### 🌱 Currently Learning
-- **Typescript**
-
-### 📫 How to Reach Me
-- Email: **sebaslimutn@gmail.com**
-
----
-
-### 🌐 Connect with Me
-<p align="left">
-    <a href="https://linkedin.com/in/sebastiánlimardo" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sebastiánlimardo" height="30" width="40" />
-    </a>
-</p>
-
----
-
 ### 🛠️ Languages and Tools
 <p align="left">
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
@@ -83,3 +66,22 @@
         <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
     </a>
 </p>
+
+
+### 🌱 Currently Learning
+- **Typescript**
+
+### 📫 How to Reach Me
+- Email: **sebaslimutn@gmail.com**
+
+---
+
+### 🌐 Connect with Me
+<p align="left">
+    <a href="https://linkedin.com/in/sebastiánlimardo" target="_blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sebastiánlimardo" height="30" width="40" />
+    </a>
+</p>
+
+---
+
