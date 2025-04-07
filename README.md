@@ -69,9 +69,6 @@
 
 ---
 
-### 🌱 Currently Learning
-- **Typescript**
-
 ### 📫 How to Reach Me
 - Email: **sebaslimutn@gmail.com**
 
